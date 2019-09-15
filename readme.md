@@ -1,0 +1,1 @@
+Small program to help split scans that contain multiple images into individual files for each image.
